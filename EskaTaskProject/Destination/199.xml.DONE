@@ -1,0 +1,35 @@
+<CDRS>
+	<CDR>
+		<ID>12345</ID>
+		<Name>noor</Name>
+		<LastName>Smith</LastName>
+		<BDate>1992-10-23</BDate>
+
+		<Phone>0788221788</Phone>
+		<Gender>Male</Gender>
+		<Address>jordan</Address>
+	</CDR>
+
+	<CDR>
+		<ID>125</ID>
+		<Name>Abood</Name>
+		
+		<BDate>1980-8-23</BDate>
+
+		<Phone>0798842188</Phone>
+		<Gender>Male</Gender>
+		<Address>UAE</Address>
+	</CDR>
+
+
+	<CDR>
+		<ID>9</ID>
+		<Name>Talal</Name>
+		<LastName>Ward</LastName>
+		<BDate>1990-12-20</BDate>
+		<NationalID>123456</NationalID>
+		<Phone>0798842188</Phone>
+		<Gender>Male</Gender>
+		
+	</CDR>
+</CDRS>
